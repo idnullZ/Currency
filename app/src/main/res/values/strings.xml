@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">currency</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Время последнего обновления: %s</string>
+    <string name="slash">/</string>
+    <string name="price_label">Цена:</string>
+    <string name="min_price_label">Минимум за день:</string>
+    <string name="max_price_label">Максимум за день:</string>
+    <string name="last_market_label">Последняя сделка:</string>
+    <string name="last_updated_label">Обновлено:</string>
+    <string name="euro">EURO</string>
+    <string name="usd">USD</string>
+    <string name="_000">000</string>
+    <string name="cny">CNY</string>
+    <string name="aud">AUD</string>
+</resources>
